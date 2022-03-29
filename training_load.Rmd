@@ -2,7 +2,9 @@
 title: "training_load"
 author: "Daniel Fuller"
 date: "29/03/2022"
-output: html_document
+output:
+    html_document:
+      keep_md: true
 ---
 
 ```{r setup, include=FALSE}
